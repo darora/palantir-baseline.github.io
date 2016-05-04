@@ -2,7 +2,7 @@
 layout: default
 title: Style Guides
 tagline: Language-specific coding style guides
-permalink: /styleguides/
+permalink: /style-guides/
 ---
 
 Our style guides for a variety of languages.
@@ -13,4 +13,4 @@ standardizing formatting. Whether you follow our style guides precisely or use
 them as the basis for your own, you will find that using a style guide makes
 developing software in a team easier.
 
-[Style Guides](https://github.com/palantir-baseline/styleguides){: .button .button-small}
+[Style Guides](https://github.com/palantir-baseline/style-guides){: .button .button-small}
