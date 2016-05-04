@@ -335,7 +335,7 @@
 		background: #B03500 url(../images/overlay.png) repeat;
 	}
 
-	#content-page-header-wrapper #content-page-logo{
+	#content-page-header-wrapper #content-page-logo {
 		color: white;
 		padding: 0.5em 0.5em;
 	}
@@ -343,6 +343,11 @@
 	#content-page-header-wrapper #content-page-title {
 		color: white;
 		font-size: 2em;
+	}
+
+	#content-page-header-wrapper #content-page-title a {
+		color: #FFFFFF;
+		text-decoration: none;
 	}
 
 /*********************************************************************************/
