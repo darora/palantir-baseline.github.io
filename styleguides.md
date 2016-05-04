@@ -12,3 +12,5 @@ Style guides exist to make reading code more pleasant and efficient by
 standardizing formatting. Whether you follow our style guides precisely or use
 them as the basis for your own, you will find that using a style guide makes
 developing software in a team easier.
+
+[Style Guides](https://github.com/palantir-baseline/styleguides){: .button .button-small}
