@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/palantir-baseline/palantir-baseline.github.io.svg?style=svg)](https://circleci.com/gh/palantir-baseline/palantir-baseline.github.io)
+[![Circle CI](https://circleci.com/gh/palantir-baseline/palantir-baseline.github.io.svg?style=shield)](https://circleci.com/gh/palantir-baseline/palantir-baseline.github.io)
 
 # palantir-baseline.github.io
 
