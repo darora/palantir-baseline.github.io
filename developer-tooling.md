@@ -13,3 +13,4 @@ our guides. Others help you set up your development environment quickly and
 easily. Feel free to pick and choose the ones you find most useful.
 
 [Developer Tooling](https://github.com/palantir-baseline){: .button .button-small}
+[Gradle Plugins](https://github.com/palantir/gradle-baseline){: .button .button-small}
